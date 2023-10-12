@@ -1,0 +1,46 @@
+.flex-container{
+    display: flex;
+    background-color: beige;
+    justify-content: center;
+}
+.flex-container > :nth-child(1){
+background-color:beige (244,244,197);
+margin: 10px;
+width: 200px;
+height: 100px;
+}
+.flex-container > :nth-child(2){
+    background-color: beige (224,244,197);
+    margin: 10px;
+width: 200px;
+height: 100px;
+}
+ .flex-container > :nth-child(3){
+    background-color: beige (224,244,197);
+    margin: 10px;
+    width: 200px;
+    height: 100px;
+ }
+
+ .flex-container > :nth-child(4){
+    background-color: beige (224,244,197);
+    margin: 10px;
+    width: 200px;
+    height: 100px;
+ }
+
+ .flex-container > :nth-child(5){
+    background-color: beige (224,244,197);
+    margin: 10px;
+    width: 200px;
+    height: 100px;
+ }
+
+ .flex-container > :nth-child(6){
+    background-color: beige (224,244,197);
+    margin: 10px;
+    width: 200px;
+    height: 100px;
+ }
+
+
